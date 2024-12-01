@@ -1,6 +1,10 @@
 # recent-llm-paper-review-coding-contrastive-preference-optimization-
 code implementation in colab env for data prerprocessing and model fine tuning parts. colab 환경에서 데이터 전처리 ~ model 파인튜닝까지의 과정
 
+title : "contrastive Preference Optimization: Pushing the Boundaries of LLM Performance in Machine Translation"
+authors : Haoran Xu♠ AmrSharaf♡ YunmoChen♠ WeitingTan♠ Lingfeng Shen♠ Benjamin Van Durme♠ Kenton Murray∗ ♠ Young Jin Kim∗ ♡
+
+
 
 ![손실함수](https://github.com/user-attachments/assets/bcebf79b-11c1-47e7-bc04-f422e7d84ef1)
 
