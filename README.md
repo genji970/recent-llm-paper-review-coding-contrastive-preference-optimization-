@@ -11,7 +11,7 @@ authors : Haoran Xu♠ AmrSharaf♡ YunmoChen♠ WeitingTan♠ Lingfeng Shen♠ 
 
 ![손실함수](https://github.com/user-attachments/assets/bcebf79b-11c1-47e7-bc04-f422e7d84ef1)
 
-constraint is the form of kl divergence. by such constraint, the gap between perfect model ‘s policy(given conditional, y_preferred | x) and model’s policy(y_preferred | x) goes to epsilon. 
+constraint is the form of kl divergence. by such constraint, the gap between perfect model ‘s policy(given conditional, y_preferred | x) and model’s policy(y_preferred | x) goes to value less than epsilon.(epsilon : for any positive value bigger than 0) epsilon is not a certain value. so comparison between single val and another is not right but I just used expression.
 
 Because kl_divergence sometimes outputs discontinuity, this paper suggests to set lagrangian multiplier in front of kl divergence term. -> soft way 
 
