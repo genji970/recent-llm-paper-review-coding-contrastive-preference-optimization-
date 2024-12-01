@@ -30,3 +30,9 @@ NLL : negative log likelihood
 This paper suggests focusing on contrastive learning using output_probability from preferred data and output_probability from dis preferred data rather than using only gold reference. Since, gold references are not always gold.
 
 My thought : since, context varies according to different situation, gold reference has limit. And this paper also mentioned memory inefficiency and speed inefficiency. Since, policy for preferred data and policy for dis preferred data are double counted(as far as I understand). I think it is reasonable. Since, as mentioned above, gold reference depends on situation. There’s no perfect intrinsic value in real world. 
+
+## data preprocessing ##
+
+## custometrainer build ##
+
+## experiment result ##
