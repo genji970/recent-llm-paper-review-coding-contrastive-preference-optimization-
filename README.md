@@ -35,5 +35,7 @@ My thought : since, context varies according to different situation, gold refere
 
 ## custometrainer build ##
 cpo loss :
+nll loss :
+kl term :
 
 ## experiment result ##
