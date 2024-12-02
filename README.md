@@ -31,6 +31,8 @@ This paper suggests focusing on contrastive learning using output_probability fr
 
 My thought : since, context varies according to different situation, gold reference has limit. And this paper also mentioned memory inefficiency and speed inefficiency. Since, policy for preferred data and policy for dis preferred data are double counted(as far as I understand). I think it is reasonable. Since, as mentioned above, gold reference depends on situation. There’s no perfect intrinsic value in real world. 
 
+contrastive learning in this paper seems ensemble. Meaning data's feature is crucial. On the other hand, model's logit contains distribution with vicab_size shape. It somehow works on contarstive loss.
+
 ## data preprocessing ##
 
 ## custometrainer build ##
