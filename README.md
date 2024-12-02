@@ -34,5 +34,6 @@ My thought : since, context varies according to different situation, gold refere
 ## data preprocessing ##
 
 ## custometrainer build ##
+cpo loss :
 
 ## experiment result ##
