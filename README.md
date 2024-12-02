@@ -37,7 +37,8 @@ contrastive learning in this paper seems ensemble. Meaning data's feature is cru
 
 ## custometrainer build ##
 cpo loss :
-nll loss :
+nll loss : -log(policy_preferred)
 kl term :
 
 ## experiment result ##
+xcomet : 
